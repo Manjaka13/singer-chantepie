@@ -1,111 +1,12 @@
 {
-	"data": [
-		{
-			"id": "8daff13e-bde3-4b40-a90b-6b34732da361",
-			"type": "electronique",
-			"title": "Featherweight",
-			"description": "Cette machine est compacte et complète, elle est facile à transporter et possède aussi de nombreuses fonctionnalités.",
-			"photo": [
-				"https://res.cloudinary.com/dctlti6fj/image/upload/v1639917614/produits/electronique/Featherweight-top_vrgmte.jpg",
-				"https://res.cloudinary.com/dctlti6fj/image/upload/v1639917610/produits/electronique/Featherweight-boite-accessoire_rqsbq6.jpg",
-				"https://res.cloudinary.com/dctlti6fj/image/upload/v1639917605/produits/electronique/Face-web_rbs3l2.jpg"
-			],
-
-			"details": [
-				"70 programmes de points (basiques, stretchs, décoratifs, quilting)",
-				"Système d’entrainement régulier intégré",
-				"Écran LCD tactile",
-				"Longueur et largeur de point ajustables",
-				"3 boutonnières automatiques en 1 temps",
-				"Enfile-aiguille automatique",
-				"Position d’aiguille haute/basse",
-				"Touche Start & Stop et contrôle de la vitesse",
-				"2 lumières LED",
-				"Machine fournie avec 6 pieds presseurs et une housse de protection rigide"
-			],
-			"promotion": {},
-			"outstock": false
-		},
-
-		{
-			"id": "be5b992d-5769-44df-88ce-f3188cde2ccd",
-			"type": "electronique",
-			"title": "STYLIST 4085",
-			"description": "",
-			"photo": [
-				"https://res.cloudinary.com/dctlti6fj/image/upload/v1639917726/produits/electronique/Stylist-4085-2_h9zgxb.png"
-			],
-			"details": [
-				"Plus de 960 programmes de couture (10 basics, 21 stretch, 212 décoratifs),",
-				"6 alphabets (+ chiffres) avec fonction mémoire.",
-				"13 boutonnières auto en 1 temps,",
-				"Longueur et largeur de point ajustables",
-				"Mémoire avec mode édition,",
-				"Point miroir / inversé",
-				"Elongation de point",
-				"Coupe-fil automatique",
-				"Enfile-aiguille automatique",
-				"Touche marche/arrêt (start/stop),",
-				"Couture avec et sans pédale,",
-				"Arrêt aiguille en position haute/basse",
-				"Point d’arrêt automatique,",
-				"Touche couture arrière,",
-				"Griffes d’entraînement 7 segments"
-			],
-			"promotion": {},
-			"outstock": false
-		},
-
-		{
-			"id": "cb4c5cd0-db5e-45aa-9b77-f94d3cdced3e",
-			"type": "electronique",
-			"title": "EXPÉRIENCE 400",
-			"description": "La machine parfaite pour toutes vos coutures et points décoratifs.",
-			"photo": [
-				"https://res.cloudinary.com/dctlti6fj/image/upload/v1639917679/produits/electronique/Experience-400_dncq1h.png"
-			],
-			"details": [
-				"98 programmes de points (9 basiques, 8 stretch, 76 décoratifs…).",
-				"Fonction Start & Stop.",
-				"6 boutonnières automatiques en 1 temps.",
-				"Enfile-aiguille automatique",
-				"Aiguille haute/basse",
-				"13 positions d’aiguille",
-				"Sélection directe des points",
-				"Système de canette top-drop",
-				"Table d’extension",
-				"Réalise des angles parfaits"
-			],
-			"promotion": {},
-			"outstock": true
-		},
-		{
-			"id": "fb06f788-3be9-433b-bfc3-f2ae0a99eaee",
-			"type": "electronique",
-			"title": "Futura 200",
-			"description": "Machine à coudre électronique. Avez-vous l’esprit créatif ou la passion du quilt ? Le pied double et la table d’extension vous permettront de coudre à la main libre !",
-			"photo": [
-				"https://res.cloudinary.com/dctlti6fj/image/upload/v1639911249/produits/electronique/futura200_promotion_b69qlw_d9lzkg.jpg",
-				"https://res.cloudinary.com/dctlti6fj/image/upload/v1639917472/produits/electronique/singer-futura200-tablette_i49fm0.jpg",
-				"https://res.cloudinary.com/dctlti6fj/image/upload/v1639917479/produits/electronique/singer-futura200-face_deghrv.jpg"
-			],
-			"details": [
-				"98 programmes de points (9 basiques, 8 stretch, 76 décoratifs…).",
-				"Fonction Start & Stop.",
-				"6 boutonnières automatiques en 1 temps.",
-				"Enfile-aiguille automatique",
-				"Aiguille haute/basse",
-				"13 positions d’aiguille",
-				"Sélection directe des points",
-				"Système de canette top-drop",
-				"Table d’extension",
-				"Réalise des angles parfaits"
-			],
-			"promotion": {
-				"type": "reduction",
-				"name": "Un acheté, un offert"
-			},
-			"outstock": true
-		}
-	]
+    "data": [{
+        "id": "8daff13e-bde3-4b40-a90b-6b34732da361",
+        "type": "electronique",
+        "description": "D'une grande simplicité et très ludique, vous l'utiliserez pour la couture de base, mais surtout pour tous les loisirs créatifs, sacs, trousses, personnalisation grâce aux lettrages, et aux points fantaisies ,customisation de vos vêtements, confection……. Ainsi qu’une multitude de réglage facilitant la couture !",
+        "photo": [
+            "https://i.pinimg.com/originals/24/16/0f/24160fd8fff1ce1716c44d0962c6867a.jpg",
+            "https://i.pinimg.com/originals/70/3b/aa/703baae69605241553e9adc77f4281af.jpg",
+            "https://i.pinimg.com/originals/75/a4/c2/75a4c2dde3d67995beca9e7d1526d94d.jpg"
+        ]
+    }]
 }

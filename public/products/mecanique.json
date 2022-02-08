@@ -1,104 +1,11 @@
 {
-	"data": [
-		{
-			"id": "cb02d891-bcec-4db0-80d9-1a07565e4e4a",
-			"type": "mecanique",
-			"title": "SUPERA 5523",
-			"description": "Cette gamme de machines à coudre possède de nombreux atouts : coudre des épaisseurs, du jean, des tissus d’ameublement, des toiles cirées ainsi que toutes les coutures traditionnelles. Avec un cadre métallique intérieur robuste, une semelle en acier inoxydable, une vitesse de couture extra-haute et un moteur puissant, cette machine est votre alliée de tous les jours.",
-			"photo": [
-				"https://res.cloudinary.com/dctlti6fj/image/upload/v1639919121/produits/mecanique/Supera-5523-1_rvfxvh.png"
-			],
-			"details": [
-				"23 programmes de points",
-				"Moteur résistant ultra-rapide 1100 pts/mn",
-				"3 positions d’aiguille",
-				"Boutonnière automatique 1 temps",
-				"Bras libre pour couture circulaire",
-				"Enfile-aiguille automatique"
-			],
-			"promotion": {
-				"type": "reduction",
-				"name": "Réduction de 45%",
-				"value": "45%"
-			},
-			"outstock": false
-		},
-
-		{
-			"id": "b6d6e920-124c-4356-a111-0c21f9175ce0",
-			"type": "mecanique",
-			"title": "Tradition 2250 Bleue",
-			"description": "Machine à coudre mécanique",
-			"photo": [
-				"https://res.cloudinary.com/dctlti6fj/image/upload/v1639919507/produits/mecanique/mademoiselle-2105-singer_owxmkh.jpg",
-				"https://res.cloudinary.com/dctlti6fj/image/upload/v1639919383/produits/mecanique/trdition2250blue_zt1jyb.jpg",
-				"https://res.cloudinary.com/dctlti6fj/image/upload/v1639919383/produits/mecanique/trdition2250blue-cote_jjrfmj.jpg",
-				"https://res.cloudinary.com/dctlti6fj/image/upload/v1639919382/produits/mecanique/trdition2250blue-dessus_ncq53m.jpg"
-			],
-			"details": [
-				"10 programmes",
-				"18 points ajustables",
-				"Boutonnière automatique en 4 étapes",
-				"Rhéostat électronique",
-				"Porte canette métallique",
-				"Bras libre – Marche arrière"
-			],
-			"promotion": {},
-			"outstock": true
-		},
-
-		{
-			"id": "ea8c41e6-6de9-49f0-93ac-bd9d3a85eae3",
-			"type": "mecanique",
-			"title": "Madam 5",
-			"description": "La nouvelle machine à coudre de la gamme Madam est plus design, plus accessible et plus compacte…et totalement adaptée aux débutantes comme aux couturières confirmées !",
-			"photo": [
-				"https://res.cloudinary.com/dctlti6fj/image/upload/v1639919271/produits/mecanique/Madam5-face-1_aawyto.jpg",
-				"https://res.cloudinary.com/dctlti6fj/image/upload/v1639919281/produits/mecanique/Madam5-boutons_f0eofj.jpg",
-				"https://res.cloudinary.com/dctlti6fj/image/upload/v1639919282/produits/mecanique/Madam5-haut_fk4xvt.jpg",
-				"https://res.cloudinary.com/dctlti6fj/image/upload/v1639919282/produits/mecanique/Madam5-accesoires_o6dbjl.jpg",
-				"https://res.cloudinary.com/dctlti6fj/image/upload/v1639919287/produits/mecanique/Madam5-aiguille_cjk3a7.jpg"
-			],
-			"details": [
-				"32 points intégrés : basiques, extensibles et décoratifs",
-				"Boutonnière à 1 temps",
-				"Lumière LED STAYBRIGHT™",
-				"Enfile-aiguille automatique",
-				"Canette horizontale",
-				"Longueur des points ajustable",
-				"Châssis en métal",
-				"Bras libre",
-				"Rangement des accessoires dans un compartiment amovible",
-				"Poids : 5,5kg"
-			],
-			"promotion": {},
-			"outstock": false
-		},
-		{
-			"id": "ece4f7ee-6334-4d72-a4f0-2ffcc7c744c8",
-			"type": "mecanique",
-			"title": "M2105",
-			"description": "Compacte et légère à transporter, elle est parfaite pour les débutantes !",
-			"photo": [
-				"https://res.cloudinary.com/dctlti6fj/image/upload/v1639919383/produits/mecanique/trdition2250blue_zt1jyb.jpg",
-				"https://res.cloudinary.com/dctlti6fj/image/upload/v1639919507/produits/mecanique/mademoiselle-2105-singer_owxmkh.jpg",
-				"https://res.cloudinary.com/dctlti6fj/image/upload/v1639919508/produits/mecanique/M2105_k5gbnx.jpg"
-			],
-			"details": [
-				"8 programmes de points",
-				"Boutonnière automatique en 4 temps",
-				"Réglage de la tension du fil",
-				"Canette verticale",
-				"Enfilage simplifié",
-				"Bras libre",
-				"Châssis en métal",
-				"Boîte d’accessoires incluse"
-			],
-			"promotion": {
-				"type": "offert",
-				"name": "Un acheté, un livre offert"
-			},
-			"outstock": false
-		}
-	]
+    "data": [{
+        "id": "cb02d891-bcec-4db0-80d9-1a07565e4e4a",
+        "type": "mecanique",
+        "description": "Facile d'utilisation, vous retrouvez les points principaux d'une machine : le droit, le zigzag, la boutonnière, idéal pour la couture de base, type ourlet, réparation d’accros…",
+        "photo": [
+            "https://i.pinimg.com/originals/4a/05/83/4a058307ea86190d610eb42ca2f15895.jpg",
+            "https://i.pinimg.com/originals/76/52/c4/7652c47865a9866b0903671c1f230012.jpg"
+        ]
+    }]
 }
